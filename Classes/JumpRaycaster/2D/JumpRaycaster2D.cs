@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace Scripts.Utils._2D
+namespace Devic.Scripts.Utils.JumpRayCaster._2D
 {
     /// <summary>
     /// Parses if the game object is touching the ground. The Ground needs to be targeted with a 'Layer Mask' named 'Ground'
